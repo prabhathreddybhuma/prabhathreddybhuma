@@ -10,7 +10,7 @@
 - 💡 Passionate about creating innovative solutions with **AI**, **Web Development**, and **User-Centered Design**  
 - 🔧 Currently working on projects like **Event Management Systems**, **Certificate Generators**, and **Airplane Price Prediction Models**  
 - 🌱 Exploring **NLP**, **Image Recognition**, and **Git Mastery**  
-- 🎨 Former **UI/UX Lead** at **TPH SRMIST**, designing impactful digital experiences  
+- 🎨  **UI/UX Designer**, designing impactful digital experiences  
 - 🌟 An open-source contributor who believes in the power of collaboration  
 
 ---

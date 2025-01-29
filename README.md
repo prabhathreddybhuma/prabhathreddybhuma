@@ -1,17 +1,18 @@
 # 👋 Hi, I’m **Prabhath Reddy Bhuma**  
 
-🚀 **Tech Enthusiast | AI/ML Explorer | UI/UX Designer**  
+🚀 **Tech Enthusiast | AI/ML Explorer | Data Analytics Practitioner | UI/UX Innovator**
 
 ---
 
 ### 📖 About Me  
 
 - 🎓 I’m a **B.Tech Computer Science (AI/ML)** student at **SRM University**  
-- 💡 Passionate about creating innovative solutions with **AI**, **Web Development**, and **User-Centered Design**  
-- 🔧 Currently working on projects like **Event Management Systems**, **Certificate Generators**, and **Airplane Price Prediction Models**  
-- 🌱 Exploring **NLP**, **Image Recognition**, and **Git Mastery**  
-- 🎨  **UI/UX Designer**, designing impactful digital experiences  
-- 🌟 An open-source contributor who believes in the power of collaboration  
+- 💡 Passionate about creating innovative solutions with **AI**, **Data Analytics**, **Web Development**, and **User-Centered Design**  
+- 🔧 Currently working on projects like **Certificate Generators**, and **HR Analytics**  
+- 🌱 Exploring **NLP**, **Image Recognition**, **AI/ML**, and **Git Mastery**  
+- 🎨 A **UI/UX Innovator**, designing impactful digital experiences with user-first principles  
+- 🌟 An open-source contributor who believes in the power of collaboration and knowledge sharing  
+
 
 ---
 
@@ -67,13 +68,27 @@
 
 ### 📌 Current Projects  
 
-1. **Event Registration & Notification System**  
-   - Built with **PHP**, **MongoDB**, and **Email Authentication**  
-   - Features QR code ticket scanning and OTP-based login  
+### 🏆 Certificate Generator  
+- Automates **bulk certificate creation and distribution**  
+- Powered by **PHP** for seamless operations  
+- Uses **custom templates** for professional-looking certificates  
 
-2. **Certificate Generator**  
-   - Automates bulk certificate creation and distribution  
-   - Powered by **PHP** for seamless operations  
+### 🏋️‍♂️ AI-Powered Workout Planner  
+- Provides **personalized workout schedules based on BMI**  
+- Uses **AI-driven Q&A format** for tailored fitness plans  
+- Supports **muscle-specific and full-body training splits**  
+
+### 🧭 Pathfinder: AI-Powered Career Navigator  
+- Offers **career guidance based on skills & interests**  
+- Uses **LLM-based recommendations** for personalized job paths  
+- Aligns with **SDG 4 (Quality Education) & SDG 8 (Decent Work & Economic Growth)**  
+
+### 📈 HR Analytics: Employee Attrition & Performance Prediction  
+- Predicts **employee attrition & performance trends** using AI/ML  
+- Utilizes **Python, scikit-learn, TensorFlow, and Power BI/Tableau**  
+- Helps **HR teams optimize talent retention & workforce planning**  
+- Analyzes **key factors like job satisfaction, workload, and pay scale**  
+ 
 
 ---
 

@@ -1,24 +1,54 @@
-# 👋 Hi, I’m **Prabhath Reddy Bhuma**  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+%F0%9F%91%8B+I'm+Prabhath;Tech+Enthusiast;AI%2FML+Explorer;Data+Analytics+Expert" alt="Typing SVG" />
+</h1>
 
-🚀 **Tech Enthusiast | AI/ML Explorer | Data Analytics Practitioner | UI/UX Innovator**
-
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="120" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=sriprabhathreddybhuma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
 ### 📖 About Me  
 
-- 🎓 I’m a **B.Tech Computer Science (AI/ML)** student at **SRM University**  
+- 🎓 I'm a **B.Tech Computer Science (AI/ML)** student at **SRM University**  
 - 💡 Passionate about creating innovative solutions with **AI**, **Data Analytics**, **Web Development**, and **User-Centered Design**  
 - 🔧 Currently working on projects like **Certificate Generators**, and **HR Analytics**  
 - 🌱 Exploring **NLP**, **Image Recognition**, **AI/ML**, and **Git Mastery**  
 - 🎨 A **UI/UX Innovator**, designing impactful digital experiences with user-first principles  
 - 🌟 An open-source contributor who believes in the power of collaboration and knowledge sharing  
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400" />
+</div>
 
----
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Statistics</h2>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sriprabhathreddybhuma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</p>
+
+<!-- Most Used Languages -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriprabhathreddybhuma&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sriprabhathreddybhuma&theme=tokyonight" alt="sriprabhathreddybhuma"/>
+</p>
+
+<!-- Profile Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sriprabhathreddybhuma&theme=tokyonight&row=1&column=6"/>
+</p>
 
 ### 🛠️ Tech Stack  
 
 ## 🚀 SALSA (Skills And Latest Stack Assessment)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" />
+</div>
 
 ### 🔹 Languages
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -47,26 +77,15 @@
 - ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 - ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🔹 Version Control
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🔹 Other Cool Stuff
-- 🖥️ Raspberry Pi  
-- 🌡️ DHT11 Sensors  
-- 🌐 IoT Gadgets
-
-
-
-- **Languages**: Python, PHP, JavaScript, HTML, CSS  
-- **Frameworks & Tools**: Flask, MongoDB, PHPMailer, Bootstrap  
-- **AI/ML**: TensorFlow, scikit-learn, Google Vertex AI  
-- **Version Control**: Git & GitHub  
-- **Other Cool Stuff**: Raspberry Pi, DHT11 sensors, and IoT gadgets  
-
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
+</div>
 
 ### 📌 Current Projects  
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100" />
+</div>
 
 ### 🏆 Certificate Generator  
 - Automates **bulk certificate creation and distribution**  
@@ -88,24 +107,34 @@
 - Utilizes **Python, scikit-learn, TensorFlow, and Power BI/Tableau**  
 - Helps **HR teams optimize talent retention & workforce planning**  
 - Analyzes **key factors like job satisfaction, workload, and pay scale**  
- 
-
----
 
 ### ✨ Fun Facts  
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200" />
+</div>
+
 - 🖌️ Designing clean and intuitive interfaces is my superpower  
 - 🎯 I love solving real-world problems with tech and AI  
-- 🏋️‍♂️ When not coding, you’ll find me at the gym working on fitness goals!  
+- 🏋️‍♂️ When not coding, you'll find me at the gym working on fitness goals!  
 
----
+### 📬 Let's Connect  
 
-### 📬 Let’s Connect  
+<div align="center">
+  <a href="https://www.linkedin.com/in/sriprabhathreddybhuma/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sriprabhathreddybhuma@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sriprabhathreddybhuma/)  
-- 📧 [Email](mailto:sriprabhathreddybhuma@gmail.com)  
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400" />
+</div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+</div>
 
-💡 *"Code. Learn. Repeat. Let's make something extraordinary together!"*  
-
----
+💡 *"Code. Learn. Repeat. Let's make something extraordinary together!"*

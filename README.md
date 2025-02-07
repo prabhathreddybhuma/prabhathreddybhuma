@@ -3,131 +3,107 @@
 </h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="120" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=sriprabhathreddybhuma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=prabhathreddybhuma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-### 📖 About Me  
+<h2>💫 About Me</h2>
 
-- 🎓 I'm a **B.Tech Computer Science (AI/ML)** student at **SRM University**  
-- 💡 Passionate about creating innovative solutions with **AI**, **Data Analytics**, **Web Development**, and **User-Centered Design**  
-- 🔧 Currently working on projects like **Certificate Generators**, and **HR Analytics**  
-- 🌱 Exploring **NLP**, **Image Recognition**, **AI/ML**, and **Git Mastery**  
-- 🎨 A **UI/UX Innovator**, designing impactful digital experiences with user-first principles  
-- 🌟 An open-source contributor who believes in the power of collaboration and knowledge sharing  
+```python
+class PrabhathReddy:
+    def __init__(self):
+        self.education = "B.Tech Computer Science (AI/ML) @ SRM University"
+        self.interests = ["AI/ML", "Data Analytics", "Web Development", "UI/UX"]
+        self.currently_working_on = ["Certificate Generators", "HR Analytics"]
+        self.learning = ["NLP", "Image Recognition", "Git Mastery"]
+        self.passion = "Creating innovative solutions with technology"
+        
+    def get_tech_stack(self):
+        return {
+            "Languages": ["Python", "PHP", "JavaScript", "Swift", "HTML/CSS"],
+            "AI/ML": ["TensorFlow", "scikit-learn", "Vertex AI", "OpenAI"],
+            "Cloud": ["Azure", "AWS"],
+            "Analytics": ["Tableau", "Power BI"],
+            "Database": ["MongoDB", "MySQL"],
+            "Tools": ["Flask", "Bootstrap", "Git"]
+        }
+```
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="300" />
 </div>
 
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prabhathreddybhuma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prabhathreddybhuma&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhathreddybhuma&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- Most Used Languages -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhathreddybhuma&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<!-- GitHub Streak Stats -->
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhathreddybhuma&theme=tokyonight" alt="sriprabhathreddybhuma"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-<!-- Profile Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prabhathreddybhuma&theme=tokyonight&row=1&column=6"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-### 🛠️ Tech Stack  
-
-## 🚀 SALSA (Skills And Latest Stack Assessment)
+<h2 align="center">🚀 Current Projects</h2>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" />
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🏋️‍♂️ AI-Powered Workout Planner</h3>
+        <p align="center">
+          • Personalized workout schedules based on BMI<br>
+          • AI-driven Q&A format for tailored plans<br>
+          • Support for multiple training splits
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🧭 Pathfinder: Career Navigator</h3>
+        <p align="center">
+          • AI-powered career guidance system<br>
+          • LLM-based personalized recommendations<br>
+          • Aligned with SDG 4 & SDG 8
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-### 🔹 Languages
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<h2 align="center">🤝 Connect With Me</h2>
 
-### 🔹 Frameworks & Tools
-- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-- ![PHPMailer](https://img.shields.io/badge/PHPMailer-777BB4?style=for-the-badge)
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🔹 AI/ML
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-- ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-- ![Google Vertex AI](https://img.shields.io/badge/Google%20Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-- ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### 🔹 Cloud & Data Analytics
-- ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
-</div>
-
-### 📌 Current Projects  
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100" />
-</div>
-
-
-
-### 🏋️‍♂️ AI-Powered Workout Planner  
-- Provides **personalized workout schedules based on BMI**  
-- Uses **AI-driven Q&A format** for tailored fitness plans  
-- Supports **muscle-specific and full-body training splits**  
-
-### 🧭 Pathfinder: AI-Powered Career Navigator  
-- Offers **career guidance based on skills & interests**  
-- Uses **LLM-based recommendations** for personalized job paths  
-- Aligns with **SDG 4 (Quality Education) & SDG 8 (Decent Work & Economic Growth)**  
-
-
-
-### ✨ Fun Facts  
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200" />
-</div>
-
-- 🖌️ Designing clean and intuitive interfaces is my superpower  
-- 🎯 I love solving real-world problems with tech and AI  
-- 🏋️‍♂️ When not coding, you'll find me at the gym working on fitness goals!  
-
-### 📬 Let's Connect  
-
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/sriprabhathreddybhuma/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sriprabhathreddybhuma@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
+</p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
-</div>
-
-💡 *"Code. Learn. Repeat. Let's make something extraordinary together!"*
+<p align="center">
+  <i>💡 "Code. Learn. Repeat. Let's make something extraordinary together!"</i>
+</p>

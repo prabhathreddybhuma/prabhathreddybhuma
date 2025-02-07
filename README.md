@@ -29,17 +29,17 @@
 
 <!-- Most Used Languages -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriprabhathreddybhuma&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhathreddybhuma&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 <!-- GitHub Streak Stats -->
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sriprabhathreddybhuma&theme=tokyonight" alt="sriprabhathreddybhuma"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhathreddybhuma&theme=tokyonight" alt="sriprabhathreddybhuma"/>
 </p>
 
 <!-- Profile Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sriprabhathreddybhuma&theme=tokyonight&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=prabhathreddybhuma&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ### 🛠️ Tech Stack  
@@ -87,10 +87,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100" />
 </div>
 
-### 🏆 Certificate Generator  
-- Automates **bulk certificate creation and distribution**  
-- Powered by **PHP** for seamless operations  
-- Uses **custom templates** for professional-looking certificates  
+
 
 ### 🏋️‍♂️ AI-Powered Workout Planner  
 - Provides **personalized workout schedules based on BMI**  
@@ -102,11 +99,7 @@
 - Uses **LLM-based recommendations** for personalized job paths  
 - Aligns with **SDG 4 (Quality Education) & SDG 8 (Decent Work & Economic Growth)**  
 
-### 📈 HR Analytics: Employee Attrition & Performance Prediction  
-- Predicts **employee attrition & performance trends** using AI/ML  
-- Utilizes **Python, scikit-learn, TensorFlow, and Power BI/Tableau**  
-- Helps **HR teams optimize talent retention & workforce planning**  
-- Analyzes **key factors like job satisfaction, workload, and pay scale**  
+
 
 ### ✨ Fun Facts  
 
